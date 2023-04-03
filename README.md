@@ -1,5 +1,6 @@
 # Snake Game
 >  Author: Majd Hamdan
+
 > January, 2019
 ## Overview
 A java applet that re-creates the snake game. Use keyboard arrows to move the snake. Map is reconstructed every 10 seconds. Walls are added to map randomly. Location of walls is randomized every map reconstruction. There are 3 types of food:
